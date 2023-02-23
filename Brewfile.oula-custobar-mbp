@@ -1,0 +1,27 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+
+tap homebrew/cask-fonts
+
+tap homebrew/cask
+cask 1password
+cask google-cloud-sdk
+
+tap rcmdnk/file
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask 1password
+#cask google-cloud-sdk
+
+# App Store applications
+appstore 682658836   GarageBand  (10.4.6)
+appstore 408981434   iMovie      (10.3.4)
+appstore 409183694   Keynote     (12.1)
+appstore 409203825   Numbers     (12.1)
+appstore 409201541   Pages       (12.1)
+appstore 803453959   Slack       (4.29.149)
+appstore 497799835   Xcode       (14.2)

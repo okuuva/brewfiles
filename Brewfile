@@ -55,4 +55,5 @@ brew brew-file
 appstore 1352778147  Bitwarden   (2023.2.0)
 appstore 1475387142  Tailscale   (1.36.1)
 
+# Main file
 main ./Brewfile.$HOSTNAME
