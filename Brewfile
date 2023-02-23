@@ -48,7 +48,7 @@ cask firefox
 cask google-chrome
 cask kitty
 cask signal
-cask stretchly
+cask stretchly --no-quarantine
 
 tap rcmdnk/file
 brew brew-file
