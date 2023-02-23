@@ -40,6 +40,8 @@ cask font-jetbrains-mono-nerd-font
 
 tap homebrew/cask
 cask bettertouchtool
+cask capslocknodelay
+cask captin
 cask discord
 cask docker
 cask firefox
