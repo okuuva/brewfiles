@@ -3,19 +3,23 @@
 
 tap homebrew/core
 
+tap homebrew/cask-drivers
+
 tap homebrew/cask-fonts
 
 tap homebrew/cask
-cask 1password
 cask google-cloud-sdk
+cask guitar-pro
+cask vivaldi
 
 tap rcmdnk/file
 
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
-#cask 1password
 #cask google-cloud-sdk
+#cask guitar-pro
+#cask vivaldi
 
 # App Store applications
 appstore 682658836   GarageBand  (10.4.6)

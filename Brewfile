@@ -15,6 +15,7 @@ brew gnu-tar
 brew gnu-which
 brew go
 brew gzip
+brew jq
 brew lazygit
 brew less
 brew luajit --HEAD
@@ -28,6 +29,7 @@ brew ripgrep
 brew rsync
 brew rust
 brew starship
+brew stylua
 brew tldr
 brew tree-sitter --HEAD
 brew wget
@@ -35,10 +37,14 @@ brew xonsh
 brew yq
 brew zsh
 
+tap homebrew/cask-drivers
+cask uhk-agent
+
 tap homebrew/cask-fonts
 cask font-jetbrains-mono-nerd-font
 
 tap homebrew/cask
+cask 1password
 cask bettertouchtool
 cask capslocknodelay
 cask captin
