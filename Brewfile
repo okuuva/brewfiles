@@ -4,6 +4,7 @@
 tap homebrew/core
 brew abduco
 brew bash
+brew coreutils
 brew diffutils
 brew file-formula
 brew findutils
@@ -20,13 +21,13 @@ brew lazygit
 brew less
 brew luajit --HEAD
 brew luarocks
-brew markdownlint-cli
 brew mas
 brew mmv
 brew neovim-remote
 brew openssh
 brew pipx
 brew prettier
+brew pyenv
 brew pyenv-virtualenv
 brew ripgrep
 brew rsync
@@ -42,6 +43,7 @@ brew xonsh
 brew yamllint
 brew yq
 brew zsh
+brew zstd
 
 tap homebrew/cask-drivers
 cask uhk-agent
