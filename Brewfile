@@ -20,20 +20,26 @@ brew lazygit
 brew less
 brew luajit --HEAD
 brew luarocks
+brew markdownlint-cli
 brew mas
 brew mmv
 brew neovim-remote
 brew openssh
+brew pipx
+brew prettier
 brew pyenv-virtualenv
 brew ripgrep
 brew rsync
 brew rust
+brew shellcheck
+brew shfmt
 brew starship
 brew stylua
 brew tldr
 brew tree-sitter --HEAD
 brew wget
 brew xonsh
+brew yamllint
 brew yq
 brew zsh
 
