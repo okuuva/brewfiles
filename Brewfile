@@ -53,6 +53,7 @@ cask font-jetbrains-mono-nerd-font
 
 tap homebrew/cask
 cask 1password
+cask 1password-cli
 cask bettertouchtool
 cask capslocknodelay
 cask captin
@@ -69,7 +70,7 @@ brew brew-file
 
 # App Store applications
 appstore 1352778147  Bitwarden   (2023.2.0)
-appstore 1475387142  Tailscale   (1.36.1)
+appstore 1475387142  Tailscale   (1.36.2)
 
 # Main file
 main ./Brewfile.$HOSTNAME

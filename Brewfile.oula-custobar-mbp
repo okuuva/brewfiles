@@ -17,6 +17,7 @@ tap rcmdnk/file
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
 
+#cask 1password-cli
 #cask google-cloud-sdk
 #cask guitar-pro
 #cask vivaldi
