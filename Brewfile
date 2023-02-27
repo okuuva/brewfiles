@@ -3,6 +3,8 @@
 
 tap homebrew/core
 brew abduco
+brew arkade
+brew automake
 brew bash
 brew coreutils
 brew diffutils
@@ -25,6 +27,7 @@ brew mas
 brew mmv
 brew neovim-remote
 brew openssh
+brew openssl@1.1
 brew pipx
 brew prettier
 brew pyenv
@@ -34,6 +37,7 @@ brew rsync
 brew rust
 brew shellcheck
 brew shfmt
+brew sqlite
 brew starship
 brew stylua
 brew tldr
@@ -42,6 +46,7 @@ brew wget
 brew xonsh
 brew yamllint
 brew yq
+brew zlib
 brew zsh
 brew zstd
 
