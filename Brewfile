@@ -8,6 +8,7 @@ brew automake
 brew bash
 brew coreutils
 brew diffutils
+brew fd
 brew file-formula
 brew findutils
 brew fish
@@ -21,6 +22,7 @@ brew gzip
 brew jq
 brew lazygit
 brew less
+brew lsd
 brew luajit --HEAD
 brew luarocks
 brew mas

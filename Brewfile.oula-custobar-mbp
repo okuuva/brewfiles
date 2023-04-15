@@ -2,8 +2,11 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew gcc
+brew libtool
 brew postgresql@11
 brew rancher-cli
+brew watch
 
 tap homebrew/cask-drivers
 
