@@ -1,0 +1,22 @@
+tap homebrew/core
+brew cmake
+brew exercism
+brew gcc
+brew gh
+brew pandoc
+brew re2
+brew watch
+
+tap homebrew/cask
+cask capslocknodelay
+cask discord
+cask google-drive
+cask guitar-pro
+cask obsidian
+cask signal
+cask stretchly
+cask uhk-agent
+
+tap homebrew/cask-drivers
+
+tap homebrew/services

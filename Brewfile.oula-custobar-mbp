@@ -1,36 +1,14 @@
-
 # tap repositories and their packages
 
 tap homebrew/core
-brew gcc
-brew libtool
+brew aichat
+brew arkade
+brew commitizen
+brew libiconv
+brew mods
+brew ossp-uuid
 brew postgresql@11
-brew rancher-cli
-brew watch
+brew semgrep
+brew vault
 
-tap homebrew/cask-drivers
-
-tap homebrew/cask-fonts
-
-tap homebrew/cask
-cask google-cloud-sdk
-cask guitar-pro
-cask vivaldi
-
-tap rcmdnk/file
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask google-cloud-sdk
-#cask guitar-pro
-#cask vivaldi
-
-# App Store applications
-appstore 682658836   GarageBand  (10.4.6)
-appstore 408981434   iMovie      (10.3.4)
-appstore 409183694   Keynote     (12.1)
-appstore 409203825   Numbers     (12.1)
-appstore 409201541   Pages       (12.1)
-appstore 803453959   Slack       (4.29.149)
-appstore 497799835   Xcode       (14.2)
+file ./Brewfile.work
