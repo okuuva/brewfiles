@@ -1,3 +1,6 @@
+
+# tap repositories and their packages
+
 tap homebrew/core
 brew cloc
 brew git-lfs
@@ -7,5 +10,3 @@ cask choosy
 cask google-chrome
 cask google-cloud-sdk
 cask stretchly
-
-appstore 803453959 Slack (4.35.131)

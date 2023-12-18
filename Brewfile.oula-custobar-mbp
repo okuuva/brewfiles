@@ -1,3 +1,4 @@
+
 # tap repositories and their packages
 
 tap homebrew/core
@@ -11,4 +12,16 @@ brew postgresql@11
 brew semgrep
 brew vault
 
+tap homebrew/cask
+
+tap homebrew/cask-fonts
+
+tap homebrew/services
+
+tap rcmdnk/file
+
+# App Store applications
+appstore 497799835 Xcode (15.1)
+
+# Additional files
 file ./Brewfile.work

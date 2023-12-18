@@ -1,3 +1,6 @@
+
+# tap repositories and their packages
+
 tap homebrew/core
 brew cmake
 brew exercism
@@ -14,9 +17,6 @@ cask google-drive
 cask guitar-pro
 cask obsidian
 cask signal
-cask stretchly
 cask uhk-agent
-
-tap homebrew/cask-drivers
 
 tap homebrew/services

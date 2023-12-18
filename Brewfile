@@ -1,9 +1,12 @@
+
 # tap repositories and their packages
 
 tap homebrew/core
 brew abduco
+brew asdf
 brew automake
 brew bash
+brew bob
 brew coreutils
 brew curl
 brew diffutils
@@ -35,7 +38,7 @@ brew rsync
 brew rust
 brew starship
 brew tldr
-brew tree-sitter --HEAD
+brew tree-sitter
 brew wget
 brew yq
 brew zlib
@@ -60,10 +63,8 @@ brew brew-file
 
 # App Store applications
 appstore 1475387142 Tailscale (1.54.1)
-appstore 497799835 Xcode (15.1)
-
-# Extraneous packages
-file ./Brewfile.extra
-
 # Main file
 main ./Brewfile.$HOSTNAME
+
+# Additional files
+file ./Brewfile.extra
