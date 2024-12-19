@@ -2,26 +2,52 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew aichat
-brew arkade
-brew commitizen
-brew libiconv
+brew automake
+brew carapace
+brew cloc
+brew coreutils
+brew direnv
+brew emscripten
+brew git-lfs
+brew gnupg
+brew hadolint
+brew htop
+brew lazydocker
+brew mise
 brew mods
-brew ossp-uuid
-brew postgresql@11
-brew semgrep
-brew vault
+brew nmap
+brew nushell
+brew openssl@1.1
+brew parallel
+brew tmux
+brew yamllint
+brew zoxide
 
 tap homebrew/cask
+cask android-platform-tools
+cask google-chrome
+cask iina
+cask iterm2
+cask slack
+cask wezterm
+cask zoom
+
+tap homebrew/bundle
 
 tap homebrew/cask-fonts
 
 tap homebrew/services
 
+tap charmbracelet/tap
+
 tap rcmdnk/file
 
 # App Store applications
-appstore 497799835 Xcode (15.1)
+appstore 408981434 iMovie (10.4.3)
+appstore 1295203466 Microsoft Remote Desktop (10.9.10)
+appstore 409203825 Numbers (14.2)
+appstore 1475387142 Tailscale (1.76.6)
+appstore 497799835 Xcode (16.1)
 
 # Additional files
 file ./Brewfile.work

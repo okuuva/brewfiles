@@ -2,11 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew cloc
-brew git-lfs
 
 tap homebrew/cask
 cask choosy
-cask google-chrome
 cask google-cloud-sdk
 cask stretchly

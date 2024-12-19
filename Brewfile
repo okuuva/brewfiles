@@ -3,14 +3,8 @@
 
 tap homebrew/core
 brew abduco
-brew asdf
-brew automake
-brew bash
-brew bob
-brew coreutils
 brew curl
 brew diffutils
-brew direnv
 brew fd
 brew file-formula
 brew findutils
@@ -38,12 +32,10 @@ brew rsync
 brew rust
 brew starship
 brew tldr
-brew tree-sitter
 brew wget
 brew yq
 brew zlib
 brew zsh
-brew zstd
 
 tap homebrew/cask
 cask 1password
@@ -52,17 +44,14 @@ cask bettertouchtool
 cask captin
 cask docker
 cask firefox
+cask font-jetbrains-mono-nerd-font
 cask hammerspoon
-cask kitty
 
 tap homebrew/cask-fonts
-cask font-jetbrains-mono-nerd-font
 
 tap rcmdnk/file
 brew brew-file
 
-# App Store applications
-appstore 1475387142 Tailscale (1.54.1)
 # Main file
 main ./Brewfile.$HOSTNAME
 
